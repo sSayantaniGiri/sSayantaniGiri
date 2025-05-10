@@ -5,17 +5,17 @@ Edit
 <h3 align="center">AI/ML Developer | Full-Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer+at+%5BYour+Company%5D;BTech+Graduate+2024;Always+learning+new+things&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer+at+%5BWSDS+Tech%5D;Always+learning+new+things&center=true&width=500&height=30">
 </p>
 
 ---
 
-🔭 I’m currently working as an **AI/ML Developer** at **[Your Company Name]**  
-🎓 2024 BTech Graduate passionate about intelligent systems and real-world AI applications  
+🔭 I’m currently working as an **AI/ML Developer** at **WSDS Tech**  
+💡 Passionate about intelligent systems and real-world AI applications  
 🧠 Focused on Machine Learning, Deep Learning, and NLP  
 🛠️ Skilled in Python, Flask, React, SQL, and Salesforce customization  
 🚀 Created AI-based disease predictors, multilingual voice translators, and chatbot assistants  
-📫 Reach me at: [LinkedIn](#) • [Portfolio](#)  
+📫 Reach me at: [LinkedIn](#)
 🌍 Based in India | Open to impactful collaborations
 
 ---
