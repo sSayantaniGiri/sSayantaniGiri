@@ -1,6 +1,4 @@
-markdown
-Copy
-Edit
+
 <h1 align="center">Hi 👋, I'm Sayantani Giri</h1>
 <h3 align="center">AI/ML Developer | Full-Stack Enthusiast | Problem Solver</h3>
 
