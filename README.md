@@ -11,7 +11,7 @@
 🔭 I’m currently working as an **AI/ML Developer** at **WSDS Tech**  
 💡 Passionate about intelligent systems and real-world AI applications  
 🧠 Focused on Machine Learning, Deep Learning, and NLP  
-🛠️ Skilled in Python, Flask, React, and SQL 
+🛠️ Skilled in Python, Flask, React, and SQL   
 🚀 Created AI-based disease predictors, multilingual voice translators, and chatbot assistants  
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sayantani-giri-srs571225/)
 🌍 Based in India | Open to impactful collaborations
