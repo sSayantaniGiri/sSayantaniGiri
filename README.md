@@ -34,6 +34,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sSayantaniGiri&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sSayantaniGiri&theme=github-dark" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sSayantaniGiri&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
 <!--
 **sSayantaniGiri/sSayantaniGiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
