@@ -5,7 +5,7 @@ Edit
 <h3 align="center">AI/ML Developer | Full-Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer+at+%5BWSDS+Tech%5D;Always+learning+new+things&center=true&width=500&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer+at+WSDS+Tech;Always+learning+new+things&center=true&width=500&height=30">
 </p>
 
 ---
