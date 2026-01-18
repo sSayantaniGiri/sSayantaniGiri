@@ -1,14 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Sayantani Giri</h1>
-<h3 align="center">AI/ML Developer | Full-Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">Full-Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Developer+at+WSDS+Tech;Always+learning+new+things&center=true&width=500&height=30">
 </p>
 
 ---
-
-🔭 I’m currently working as an **AI/ML Developer** at **WSDS Tech**  
+ 
 💡 Passionate about intelligent systems and real-world AI applications  
 🧠 Focused on Machine Learning, Deep Learning, and NLP  
 🛠️ Skilled in Python, Flask, React, and SQL   
